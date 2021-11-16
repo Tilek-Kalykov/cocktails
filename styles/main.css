@@ -1,0 +1,49 @@
+#output{
+    position: absolute;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    left: 150px;
+  display: flex;
+  flex-wrap: wrap;
+
+    
+}
+input{
+    position: absolute;
+    width: 35%;
+    height: 16px;
+    left: 30%;
+}
+
+btn{
+    position: absolute;
+    right: 40px;
+    top: -30px;
+    width: 500px;
+    height: 200px;
+}
+body{
+    background-image: url('https://proprikol.ru/wp-content/uploads/2019/08/kartinki-na-zadnij-fon-38.jpg')
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+h1{
+    font-size: 60px;
+color: aqua;
+margin-top: 100px;
+
+}
+h4{
+    font-size: 60px;
+    color: aqua;
+}
+b{
+    font-size: 60px;
+    color: aqua;
+}
+ul{
+    font-size: 60px;
+    color: aqua;
+}
